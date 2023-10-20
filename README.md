@@ -1,6 +1,6 @@
 # FabledChronicles
 
-## Hi there, this little project is being made by *ImSakura* and **Alejandro Ortega** (aka *Svan Sidis Reilly*) ☝🏻🐺
+## Hi there, this little project is being made by **Aaron Rodriguez** (aka *ImSakura*) and **Alejandro Ortega** (aka *Svan Sidis Reilly*) ☝🏻🐺
 
 
 ### About this project
